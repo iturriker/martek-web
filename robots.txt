@@ -1,0 +1,11 @@
+# robots.txt para martek.es
+
+User-agent: *
+Allow: /
+
+# Disallow access to legal pages (noindex)
+Disallow: /politica-privacidad.html
+Disallow: /aviso-legal.html
+
+# Sitemap location
+Sitemap: https://martek.es/sitemap.xml
